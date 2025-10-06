@@ -39,14 +39,14 @@ projects I'm working on.
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><b>JavaScript</b>
-    </td>  -->
+    </td>  
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><b>HTML5</b>
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><b>CSS3</b>
         </td>
-        <!--   <td align="center" width="96">
+      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><b>MongoDB</b>
     </td>
     <td align="center" width="96">
