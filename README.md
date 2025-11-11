@@ -1,60 +1,58 @@
 <div align="center">
     <h1>Hi 👋, I'm Vashu Tyagi</h1>
-    <h3>🔬 Passionate Data Scientist & Machine Learning Enthusiast from India</h3>
+    <h3>🛠️ Data Engineer & Cloud Infrastructure Enthusiast from India</h3>
 </div>
 
 ---
 
-### About Me: The Data Scientist's Edge
+### About Me: The Data Engineer's Focus
 
-I specialize in transforming raw data into clear, actionable insights and robust predictive models. My focus is on
-leveraging **Python's data ecosystem** and solid **SQL fundamentals** to solve real-world problems. I believe the power
-of data lies in its clarity and application, and I'm committed to building efficient, production-ready solutions.
+I specialize in transforming complex, high-volume data into clean, accessible systems by designing and implementing **scalable ETL/ELT data pipelines**. My focus is on leveraging **Python** and **Advanced SQL** to build **robust data warehouses** and **data lakes**. I believe the power of data lies in its structure and reliability, and I'm committed to building efficient, production-grade infrastructure.
 
 ---
 
-### 🚀 Current Focus & Learning Journey
+### 🚀 Current Focus & Engineering Roadmap
 
 | Activity | Detail |
 | :--- | :--- |
-| 🔭 **Current Project** | [[Project name]]([Project Link]) — Applying **Advanced Machine Learning** techniques to solve a real-world problem. |
-| 🌱 **Deep Dive Learning** | Mastering **Statistical Modeling** and **Advanced Data Analysis** using the **Python stack (NumPy, Pandas, Scikit-learn)**. |
-| 💬 **Open to Discuss** | **Python**, **SQL**, **Data Wrangling, Model Evaluation, and core Machine Learning principles**. |
-| ⚡ **Fun Fact** | I turn data chaos into clarity—and I believe the best data insights come from creative problem-solving! |
+| 🔭 **Current Project** | [[Project name]]([Project Link]) — Building a resilient **data pipeline** using **Apache Airflow** and Cloud Storage. |
+| 🌱 **Deep Dive Learning** | Mastering **Apache Spark (PySpark)** for distributed processing and **Dimensional Modeling** for data warehousing. |
+| 💬 **Open to Discuss** | **Python**, **Advanced SQL**, **ETL/ELT**, **Data Orchestration (Airflow)**, and **Cloud Data Architecture (AWS/Azure)**. |
+| ⚡ **Fun Fact** | I turn data chaos into structure—and I believe the best data solutions are built for scale, not just accuracy! |
 ---
 
 ### 🛠️ Languages & Core Tools
 
-Here are the primary technologies I use for data manipulation, analysis, and modeling:
+Here are the primary technologies I use for data ingestion, transformation, storage, and orchestration:
 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="Python" title="Python" width="40" height="40" />
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="Pandas" title="Pandas" width="40" height="40" />
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+            alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /> 
     </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy"
-            title="NumPy" width="40" height="40" />
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"
+            alt="Apache Spark" title="Apache Spark (PySpark)" width="40" height="40" />
     </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn"
-            title="Scikit-learn" width="40" height="40" />
+    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://airflow.apache.org/docs/apache-airflow/2.0.0/_images/airflow_light.png"
+            alt="Apache Airflow" title="Apache Airflow" width="40" height="40" />
     </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40"
-            height="40" />
+    <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            alt="AWS" title="AWS" width="40" height="40" /> 
     </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib"
-            title="Matplotlib" width="40" height="40" />
+    <a href="https://azure.microsoft.com/en-us/services/data-factory/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+            alt="Azure" title="Azure" width="40" height="40" /> 
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="MySQL" title="MySQL" width="40" height="40" />
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="Docker" title="Docker" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40"
@@ -66,7 +64,7 @@ Here are the primary technologies I use for data manipulation, analysis, and mod
 
 ### 🌐 Connect with Me
 
-Let's collaborate on a data project or discuss the latest ML paper!
+Let's collaborate on scaling data infrastructure or discuss DataOps best practices!
 
 | Resource | Link |
 | :--- | :--- |
