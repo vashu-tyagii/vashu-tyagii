@@ -38,10 +38,6 @@ Here are the primary technologies I use for data ingestion, transformation, stor
         <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"
             alt="Apache Spark" title="Apache Spark (PySpark)" width="40" height="40" />
     </a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://airflow.apache.org/docs/apache-airflow/2.0.0/_images/airflow_light.png"
-            alt="Apache Airflow" title="Apache Airflow" width="40" height="40" />
-    </a>
     <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="AWS" title="AWS" width="40" height="40" /> 
