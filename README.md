@@ -29,10 +29,11 @@ I am a passionate **Data Engineer** from India, focused on building scalable dat
 
 ---
 
-### 📊 GitHub Stats
-![Vashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashu-tyagii&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashu-tyagii&layout=compact&theme=dark)
+### 📊 GitHub Activity
+![Vashu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashu-tyagii&theme=dracula)
 
+### 🛠️ Languages & Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashu-tyagii&layout=compact&theme=dark)
 ---
 
 ### 🌐 Connect & Collaborate
