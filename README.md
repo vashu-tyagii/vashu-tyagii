@@ -1,83 +1,44 @@
-<div align="center">
-    <h1>Hi 👋, I'm Vashu Tyagi</h1>
-    <h3>🛠️ Data Engineer & Cloud Infrastructure Enthusiast from India</h3>
-</div>
+# Hi 👋, I'm Vashu Tyagi
+### Data Engineer | ETL Architect | Cloud Specialist
+
+I am a passionate **Data Engineer** from India, focused on building scalable data ecosystems and high-availability pipelines. I specialize in turning raw data chaos into structured, actionable insights using the modern data stack.
 
 ---
 
-### About Me: The Data Engineer's Focus
-
-I specialize in transforming complex, high-volume data into clean, accessible systems by designing and implementing **scalable ETL/ELT data pipelines**. My focus is on leveraging **Python** and **Advanced SQL** to build **robust data warehouses** and **data lakes**. I believe the power of data lies in its structure and reliability, and I'm committed to building efficient, production-grade infrastructure.
-
----
-
-### 🚀 Current Focus & Engineering Roadmap
-
-| Activity | Detail |
-| :--- | :--- |
-| 🔭 **Current Project** | [[Project name]]([Project Link]) — Building a resilient **data pipeline** using **Apache Airflow** and Cloud Storage. |
-| 🌱 **Deep Dive Learning** | Mastering **Apache Spark (PySpark)** for distributed processing and **Dimensional Modeling** for data warehousing. |
-| 💬 **Open to Discuss** | **Python**, **Advanced SQL**, **ETL/ELT**, **Data Orchestration (Airflow)**, and **Cloud Data Architecture (AWS/Azure)**. |
-| ⚡ **Fun Fact** | I turn data chaos into structure—and I believe the best data solutions are built for scale, not just accuracy! |
----
-
-### 🛠️ Languages & Core Tools
-
-Here are the primary technologies I use for data ingestion, transformation, storage, and orchestration:
-
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="Python" title="Python" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-            alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /> 
-    </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"
-            alt="Apache Spark" title="Apache Spark (PySpark)" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="AWS" title="AWS" width="40" height="40" /> 
-    </a>
-    <a href="https://azure.microsoft.com/en-us/services/data-factory/" target="_blank" rel="noreferrer">
-         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-            alt="Azure" title="Azure" width="40" height="40" /> 
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="Docker" title="Docker" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40"
-            height="40" />
-    </a>
-</p>
+### 🚀 Featured Project: YouTrend Engine
+**Currently Architecting:** An automated End-to-End ETL pipeline that fetches YouTube trending metadata via API, processes it through AWS Glue, and visualizes viral trends in Power BI.
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Technical Arsenal
 
-Let's collaborate on scaling data infrastructure or discuss DataOps best practices!
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-| Resource | Link |
-| :--- | :--- |
-| 👨‍💻 **Portfolio & Projects** | [[Portfolio Link] |
-| 📄 **Resume/CV** | [[Resume Link] |
-| 📫 **Email** | **vashutyagi0011@gmail.com** |
+**Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<p align="left">
-    <a href="https://linkedin.com/in/vashu-tyagi-310342375" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="vashu-tyagi-310342375" />
-    </a>
-    <a href="https://instagram.com/vashu.tyagii" target="blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="vashu.tyagii" />
-    </a>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=vashutyagi&show_icons=true&theme=dark"
-        alt="Vashu's GitHub Stats" />
-</p>
+**Databases & Streaming:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Vashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashu-tyagii&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashu-tyagii&layout=compact&theme=dark)
+
+---
+
+### 🌐 Connect & Collaborate
+- 💼 **Portfolio:** [vashu-tyagii.github.io/Vashu-Tyagi-Portfolio/](https://vashu-tyagii.github.io/Vashu-Tyagi-Portfolio/)
+- 📫 **Email:** vashutyagi0011@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/vashutyagi](https://linkedin.com/in/vashutyagi)
+
+---
+*"The goal is to turn data into information, and information into insight."*
