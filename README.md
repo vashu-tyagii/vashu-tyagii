@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vashu Tyagi
+__# Hi 👋, I'm Vashu Tyagi
 ### Data Engineer | ETL Architect | Cloud Specialist
 
 I am a passionate **Data Engineer** from India, focused on building scalable data ecosystems and high-availability pipelines. I specialize in turning raw data chaos into structured, actionable insights using the modern data stack.
@@ -33,7 +33,7 @@ I am a passionate **Data Engineer** from India, focused on building scalable dat
 ![Vashu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashu-tyagii&theme=dracula)
 
 ### 🛠️ Languages & Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashu-tyagii&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vashu-tyagii&layout=compact&theme=dark)
 ---
 
 ### 🌐 Connect & Collaborate
@@ -43,3 +43,4 @@ I am a passionate **Data Engineer** from India, focused on building scalable dat
 
 ---
 *"The goal is to turn data into information, and information into insight."*
+__
