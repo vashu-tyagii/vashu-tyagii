@@ -1,4 +1,4 @@
-__# Hi 👋, I'm Vashu Tyagi
+# Hi 👋, I'm Vashu Tyagi
 ### Data Engineer | ETL Architect | Cloud Specialist
 
 I am a passionate **Data Engineer** from India, focused on building scalable data ecosystems and high-availability pipelines. I specialize in turning raw data chaos into structured, actionable insights using the modern data stack.
@@ -43,4 +43,3 @@ I am a passionate **Data Engineer** from India, focused on building scalable dat
 
 ---
 *"The goal is to turn data into information, and information into insight."*
-__
