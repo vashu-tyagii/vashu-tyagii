@@ -1,18 +1,23 @@
 # Hi 👋, I'm Vashu Tyagi
-### EdTech Data Analyst | Insights & Visualization Specialist 📊
+### Product Analyst | Product Analytics & A/B Testing Specialist 📊
 
-I am a data-driven **Data Analyst** from India, currently working as a Data Analyst Intern at **Palin Analytics**. I specialize in breaking down complex student operational and learning datasets into clean, actionable business insights. My core focus revolves around analytical precision, query optimization, and dynamic visualization.
+I am a data-driven **Product Analyst** from India, currently working as a Data Analyst Intern at **Palin Analytics**. I specialize in breaking down complex user clickstream logs, subscription funnels, and experimental datasets into clean, actionable product insights. My core focus revolves around analytical precision, query optimization, and dynamic behavioral visualization.
 
 ---
 
-### 🚀 Featured Industry Projects
+### 🚀 Featured Product Analytics Projects
 
-* **📊 HR Analytics — Employee Attrition Dashboard**
-    * *What it does:* Analyzed employee attrition datasets using Excel, SQL, and Python to uncover retention metrics across departments, presenting interactive views in Power BI.
-* **🛒 Customer Churn Analysis Platform**
-    * *What it does:* Built robust SQL data logic structures to clean and transform transactional logs, helping identify critical customer churn and behavioral patterns.
-* **📱 Instagram Performance Tracker**
-    * *What it does:* Engineered Python scripts (Pandas/Matplotlib) to process engagement trends and posting timelines to systematically optimize audience reach.
+* **🛒 E-Commerce Checkout Funnel Optimization**
+    * *What it does:* Analyzed millions of user clickstream logs using SQL CTEs/Window Functions to identify drop-offs. Isolated a critical 40% user leakage caused by an API validation bug on the checkout page and built a Power BI dashboard to track real-time performance.
+    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/Ecommerce-Checkout-Funnel-Analysis)
+
+* **🎬 OTT Platform User Retention Engine**
+    * *What it does:* Built a Python data pipeline to analyze time-series viewing logs and user cohorts. Statistically proved that users with less than 2 hours of watch-time in Week 1 have an 85% higher churn probability, helping the product team design automated re-engagement triggers.
+    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/OTT-User-Retention-Analysis)
+
+* **📱 Food Delivery App Feature A/B Testing**
+    * *What it does:* Evaluated a controlled A/B test for an "Express Checkout" feature using SQL and Python (`SciPy`). Conducted hypothesis testing (T-Test & Chi-Square) to eliminate sample bias and validated a statistically significant 3.4% lift in order conversions ($p\text{-value} = 0.023$).
+    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/Delivery-App-AB-Testing)
 
 ---
 
@@ -46,4 +51,4 @@ I am a data-driven **Data Analyst** from India, currently working as a Data Anal
 - 🔗 **LinkedIn:** [linkedin.com/in/vashu-tyagi-engineer](https://linkedin.com/in/vashu-tyagi-engineer)
 
 ---
-*"In today's time, no one takes business decisions randomly. They need data-driven insights."*
+*"In today's time, no one takes business or product decisions randomly. They need data-driven insights."*
