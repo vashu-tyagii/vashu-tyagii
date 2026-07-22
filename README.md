@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vashu Tyagi
 ### Data Analyst | SQL, Python & Power BI Specialist 📊
 
-I am a analytical and detail-oriented **Data Analyst** from India, currently working as a **Data Analyst Intern** at **Palin Analytics**. I specialize in translating complex raw datasets into clean, structured, and actionable business insights. My focus revolves around data cleaning, exploratory data analysis (EDA), and interactive visualization to power data-driven decisions.
+I am an analytical and detail-oriented **Data Analyst** from India, currently working as a **Data Analyst Intern** at **Palin Analytics**. I specialize in translating complex raw datasets into clean, structured, and actionable business insights. My focus revolves around data cleaning, exploratory data analysis (EDA), and interactive visualization to power data-driven decisions.
 
 ---
 
@@ -16,19 +16,19 @@ I am a analytical and detail-oriented **Data Analyst** from India, currently wor
 
 ### 🚀 Featured Analytics Projects
 
-* **🛒 E-Commerce Revenue Leakage & Funnel Analysis**
-    * *What it does:* Analyzed checkout transaction logs to pinpoint primary user drop-off stages. Identified friction during the address verification step and provided data-driven recommendations to optimize checkout conversion rates.
-    * *Tech Stack:* SQL, Power BI, Pandas
+* **🎓 EdTech Student Performance & Dropout Analysis**
+    * *What it does:* Analyzed student engagement and academic datasets using SQL and Pandas for exploratory data analysis (EDA). Built an interactive Power BI dashboard tracking attendance-to-grade correlations and demographic dropout metrics, revealing a 3x higher dropout rate in students with under 60% attendance.
+    * *Tech Stack:* SQL, Python, Pandas, Power BI, EDA
+    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/EdTech-Student-Performance-Analysis)
+
+* **📊 E-Commerce & Retail Sales Performance Analysis**
+    * *What it does:* Executed complex SQL queries and multi-table joins on retail transaction datasets to evaluate cross-regional sales trends and YoY profit growth. Created a multi-page Power BI dashboard with custom DAX measures, discovering sub-optimal profit margins in the Furniture category caused by high discount rates.
+    * *Tech Stack:* SQL, Power BI, DAX, Excel
     * *Repo:* [View Repository](https://github.com/Vashu-tyagii/Ecommerce-Checkout-Funnel-Analysis)
 
-* **🎬 OTT Platform Churn & Retention Analysis**
-    * *What it does:* Evaluated user activity datasets to map engagement patterns against subscriber churn. Built customer cohort strategies based on Customer Lifetime Value (CLV) principles to drive targeted retention plans.
-    * *Tech Stack:* Python, Pandas, Cohort Analysis
-    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/OTT-User-Retention-Analysis)
-
-* **📱 Food Delivery Service ROI & A/B Validation**
-    * *What it does:* Conducted statistical hypothesis testing and ROI cost-benefit evaluation for a new Express Delivery feature. Evaluated core operational KPIs to validate business impact prior to product rollout.
-    * *Tech Stack:* SQL, Hypothesis Testing, Python
+* **🧪 Marketing Campaign A/B Testing & Hypothesis Validation**
+    * *What it does:* Conducted statistical hypothesis testing (Chi-Square/t-test) in Python to evaluate the conversion impact of new ad creative variants. Validated campaign effectiveness at a statistically significant level ($p = 0.03$), delivering data-backed strategy recommendations for full-scale rollouts.
+    * *Tech Stack:* Python, SciPy, Hypothesis Testing, Statistics
     * *Repo:* [View Repository](https://github.com/Vashu-tyagii/Delivery-App-AB-Testing)
 
 ---
