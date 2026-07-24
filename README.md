@@ -59,7 +59,7 @@ I am an analytical and detail-oriented **Data Analyst** from India, currently wo
 
 ### 🌐 Connect & Collaborate
 - 💼 **Portfolio:** [vashu-tyagii.github.io/Vashu-Tyagi-Portfolio/](https://vashu-tyagii.github.io/Vashu-Tyagi-Portfolio/)
-- 📫 **Email:** vashutyagi0011@gmail.com
+- 📫 **Email:** vashu.tyagi.connect@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/vashu-tyagi-engineer](https://linkedin.com/in/vashu-tyagi-engineer)
 
 ---
