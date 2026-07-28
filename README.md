@@ -1,66 +1,120 @@
-# Hi 👋, I'm Vashu Tyagi
-### Data Analyst | SQL, Python & Power BI Specialist 📊
+<div align="center">
 
-I am an analytical and detail-oriented **Data Analyst** from India, currently working as a **Data Analyst Intern** at **Palin Analytics**. I specialize in translating complex raw datasets into clean, structured, and actionable business insights. My focus revolves around data cleaning, exploratory data analysis (EDA), and interactive visualization to power data-driven decisions.
+  <!-- 3D Waving Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:0078d7&height=200&section=header&text=Hi%20👋,%20I'm%20Vashu%20Tyagi&fontSize=42&fontColor=fff&animation=twinkle" width="100%" alt="Header Banner" />
+
+  <h2>📊 Data Analyst | SQL, Python & Power BI Specialist</h2>
+
+  <p><i>"In today's competitive landscape, business decisions rely on data-driven clarity, not intuition."</i></p>
+
+  <!-- Animated Social & Contact Badges -->
+  <a href="https://linkedin.com/in/vashu-tyagi-engineer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vashu-tyagii.github.io/Vashu-Tyagi-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:vashu.tyagi.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<br/>
 
 ---
 
 ### 💼 Experience
 
-**Data Analyst Intern** @ **Palin Analytics** *(May 2026 – Present | Gurugram, Haryana)*
-* Analyzing EdTech datasets (5,000–10,000+ records) using SQL & Python (Pandas) to extract key trends in student engagement.
-* Designing and maintaining interactive **Power BI dashboards** for stakeholder reporting.
-* Partnering with cross-functional teams to translate unstructured operational data into strategic business insights.
+<table>
+  <tr>
+    <td>
+      <h4>🏢 Data Analyst Intern @ Palin Analytics</h4>
+      <p><b>Duration:</b> May 2026 – Present | <b>Location:</b> Gurugram, Haryana</p>
+      <ul>
+        <li>Analyzing EdTech datasets (5,000–10,000+ records) using <b>SQL & Python (Pandas)</b> to extract key trends in student engagement.</li>
+        <li>Designing and maintaining interactive <b>Power BI dashboards</b> for stakeholder reporting.</li>
+        <li>Partnering with cross-functional teams to translate unstructured operational data into strategic business insights.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Featured Analytics Projects
 
-* **🎓 EdTech Student Performance & Dropout Analysis**
-    * *What it does:* Analyzed student engagement and academic datasets using SQL and Pandas for exploratory data analysis (EDA). Built an interactive Power BI dashboard tracking attendance-to-grade correlations and demographic dropout metrics, revealing a 3x higher dropout rate in students with under 60% attendance.
-    * *Tech Stack:* SQL, Python, Pandas, Power BI, EDA
-    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/EdTech-Student-Performance-Analysis)
-
-* **📊 E-Commerce & Retail Sales Performance Analysis**
-    * *What it does:* Executed complex SQL queries and multi-table joins on retail transaction datasets to evaluate cross-regional sales trends and YoY profit growth. Created a multi-page Power BI dashboard with custom DAX measures, discovering sub-optimal profit margins in the Furniture category caused by high discount rates.
-    * *Tech Stack:* SQL, Power BI, DAX, Excel
-    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/Ecommerce-Checkout-Funnel-Analysis)
-
-* **🧪 Marketing Campaign A/B Testing & Hypothesis Validation**
-    * *What it does:* Conducted statistical hypothesis testing (Chi-Square/t-test) in Python to evaluate the conversion impact of new ad creative variants. Validated campaign effectiveness at a statistically significant level ($p = 0.03$), delivering data-backed strategy recommendations for full-scale rollouts.
-    * *Tech Stack:* Python, SciPy, Hypothesis Testing, Statistics
-    * *Repo:* [View Repository](https://github.com/Vashu-tyagii/Delivery-App-AB-Testing)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 EdTech Student Performance Analysis</h3>
+      <p>Analyzed student engagement and academic datasets using SQL and Pandas for EDA. Built an interactive Power BI dashboard tracking attendance-to-grade correlations, revealing a <b>3x higher dropout rate</b> in students with under 60% attendance.</p>
+      <p><b>Tech Stack:</b> <code>SQL</code> <code>Python</code> <code>Pandas</code> <code>Power BI</code></p>
+      <a href="https://github.com/Vashu-tyagii/EdTech-Student-Performance-Analysis"><b>🔗 View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 E-Commerce & Retail Sales Performance</h3>
+      <p>Executed complex SQL queries and multi-table joins on retail transaction datasets to evaluate cross-regional sales trends and YoY profit growth. Discovered sub-optimal profit margins in Furniture caused by high discounts.</p>
+      <p><b>Tech Stack:</b> <code>SQL</code> <code>Power BI</code> <code>DAX</code> <code>Excel</code></p>
+      <a href="https://github.com/Vashu-tyagii/Ecommerce-Checkout-Funnel-Analysis"><b>🔗 View Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧪 Marketing Campaign A/B Testing & Hypothesis Validation</h3>
+      <p>Conducted statistical hypothesis testing (Chi-Square/t-test) in Python to evaluate conversion impact. Validated campaign effectiveness at a statistically significant level (<b>p = 0.03</b>), delivering data-backed strategy recommendations.</p>
+      <p><b>Tech Stack:</b> <code>Python</code> <code>SciPy</code> <code>Hypothesis Testing</code> <code>Statistics</code></p>
+      <a href="https://github.com/Vashu-tyagii/Delivery-App-AB-Testing"><b>🔗 View Repository</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-**Programming & Querying:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<div align="center">
 
-**Data Visualization & BI:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+  #### Programming & Querying
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 
-**Tools & Version Control:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <br/>
+
+  #### Visualization & Analytics
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+  <br/>
+
+  #### Workflow & Tools
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+---
+
+### 📈 Analytics & GitHub Activity
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vashu-tyagii&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+  <br/><br/>
+
+  <!-- GitHub Stats & Streak Side-by-Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vashu-tyagii&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vashu-tyagii&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-### 📊 GitHub Activity
-![Vashu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashu-tyagii&theme=dracula)
-
----
-
-### 🌐 Connect & Collaborate
-- 💼 **Portfolio:** [vashu-tyagii.github.io/Vashu-Tyagi-Portfolio/](https://vashu-tyagii.github.io/Vashu-Tyagi-Portfolio/)
-- 📫 **Email:** vashu.tyagi.connect@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/vashu-tyagi-engineer](https://linkedin.com/in/vashu-tyagi-engineer)
-
----
-*"In today's competitive landscape, business decisions rely on data-driven clarity, not intuition."*
+<div align="center">
+  <p><b>Driven by Logic | Built with Data</b></p>
+</div>
