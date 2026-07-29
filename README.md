@@ -98,21 +98,6 @@
 
 ---
 
-### 📈 Analytics & GitHub Activity
-
-<div align="center">
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vashu-tyagii&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vashu-tyagii&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
   <p><b>Driven by Logic | Built with Data</b></p>
 </div>
