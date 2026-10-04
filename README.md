@@ -30,11 +30,11 @@
   <tr>
     <td>
       <h4>🏢 Data Analyst Intern @ Palin Analytics</h4>
-      <p><b>Duration:</b> May 2026 – Present | <b>Location:</b> Gurugram, Haryana</p>
+      <p><b>Duration:</b> June 2026 – Present | <b>Location:</b> Gurugram, Haryana</p>
       <ul>
-        <li>Analyzing EdTech datasets (5,000–10,000+ records) using <b>SQL & Python (Pandas)</b> to extract key trends in student engagement.</li>
-        <li>Designing and maintaining interactive <b>Power BI dashboards</b> for stakeholder reporting.</li>
-        <li>Partnering with cross-functional teams to translate unstructured operational data into strategic business insights.</li>
+        <li>Analyzing transactional and behavioral datasets using <b>SQL CTEs, Window Functions & Python (Pandas)</b> to identify churn risks and customer retention patterns.</li>
+        <li>Architecting executive-grade, dark-themed <b>Power BI analytics dashboards</b> with dynamic DAX metrics.</li>
+        <li>Partnering with stakeholders to translate complex SQL views and statistical outputs into actionable commercial insights.</li>
       </ul>
     </td>
   </tr>
@@ -46,27 +46,14 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 EdTech Student Performance Analysis</h3>
-      <p>Analyzed student engagement and academic datasets using SQL and Pandas for EDA. Built an interactive Power BI dashboard tracking attendance-to-grade correlations, revealing a <b>3x higher dropout rate</b> in students with under 60% attendance.</p>
-      <p><b>Tech Stack:</b> <code>SQL</code> <code>Python</code> <code>Pandas</code> <code>Power BI</code></p>
-      <a href="https://github.com/Vashu-tyagii/EdTech-Student-Performance-Analysis"><b>🔗 View Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 E-Commerce & Retail Sales Performance</h3>
-      <p>Executed complex SQL queries and multi-table joins on retail transaction datasets to evaluate cross-regional sales trends and YoY profit growth. Discovered sub-optimal profit margins in Furniture caused by high discounts.</p>
-      <p><b>Tech Stack:</b> <code>SQL</code> <code>Power BI</code> <code>DAX</code> <code>Excel</code></p>
-      <a href="https://github.com/Vashu-tyagii/Ecommerce-Checkout-Funnel-Analysis"><b>🔗 View Repository</b></a>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" valign="top">
-      <h3>🧪 Marketing Campaign A/B Testing & Hypothesis Validation</h3>
-      <p>Conducted statistical hypothesis testing (Chi-Square/t-test) in Python to evaluate conversion impact. Validated campaign effectiveness at a statistically significant level (<b>p = 0.03</b>), delivering data-backed strategy recommendations.</p>
-      <p><b>Tech Stack:</b> <code>Python</code> <code>SciPy</code> <code>Hypothesis Testing</code> <code>Statistics</code></p>
-      <a href="https://github.com/Vashu-tyagii/Delivery-App-AB-Testing"><b>🔗 View Repository</b></a>
+      <h3>🔥 Customer RFM & Cohort Retention Analytics Engine</h3>
+      <p>Engineered an end-to-end customer analytics engine processing transactional data via SQL Views (CTEs & Window Functions). Calculated dynamic RFM scores (1–5) and generated cohort retention matrices across month-indexed user buckets. Designed a multi-page executive Power BI dashboard featuring scatter plot behavior mapping and dynamic cohort retention heatmaps.</p>
+      <p><b>Tech Stack:</b> <code>SQL (MySQL)</code> <code>Python (Pandas)</code> <code>Power BI</code> <code>DAX</code> <code>Cohort Matrix</code></p>
+      <a href="https://github.com/Vashu-tyagii/RFM-Cohort-Analytics-Engine"><b>🔗 View Repository</b></a>
     </td>
   </tr>
+ 
 </table>
 
 ---
